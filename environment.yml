@@ -1,0 +1,15 @@
+name: de-assignment
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - pip
+  - pip:
+    - pytest
+    - pandas
+    - pyspark
+    - black
+    - flake8
+    - flake8-comprehensions
+    - isort
+    - pre-commit
