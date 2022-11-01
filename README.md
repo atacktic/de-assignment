@@ -1,4 +1,4 @@
-# Arine Data Engineer Assignment
+# Data Engineer Assignment
 
 This project contains the necessary models to load and create patient medicine summaries.
 
