@@ -45,3 +45,6 @@ $ python src/tasks/run.py
 3. How many prepared claims do you have at the end of step 3? 9061
 4. What is the highest amount_allowed? Which patient and generic drug does it correspond to? amount: 35.6, Elliot Ness, rosuvastatin calcium
 5. How many unique generic names for the patient Abe Lincoln? 4
+
+## Walkthrough of steps above
+https://user-images.githubusercontent.com/117159158/199203150-60844a06-f1df-4528-92df-6ff917f16055.mp4
